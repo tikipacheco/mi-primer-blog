@@ -115,7 +115,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-ALLOWED_HOSTS=['http://ricardopacheco.pythonanywhere.com/']
+ALLOWED_HOSTS=['127.0.0.1','ricardopacheco.pythonanywhere.com']
 
 
 # Static files (CSS, JavaScript, Images)
